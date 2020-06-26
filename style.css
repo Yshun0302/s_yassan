@@ -326,7 +326,7 @@ a , a:hover {
 	height:			50%;	/* 高さは半部のサイズ */
 	position:		absolute;
 	left:			0;
-	background-color:	rgba(0,0,0,0.8);
+	background-color:	rgba(0,0,0,0.4);
 	-webkit-transition:	all 0.4s ease;
 	transition:		all 0.4s ease;
 }
