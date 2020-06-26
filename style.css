@@ -309,14 +309,14 @@ a , a:hover {
   color: #FFF;
   font-weight: bold;
   font-size: 2rem;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
   opacity: 0;
 }
 .products-img-text {
   color: #FFF;
   font-size: 1.3rem;
   opacity: 0;
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 .products-img-title , .products-img-text {
   opacity: 1;
@@ -326,7 +326,7 @@ a , a:hover {
 	height:			50%;	/* 高さは半部のサイズ */
 	position:		absolute;
 	left:			0;
-	background-color:	rgba(0,0,0,0.4);
+	background-color:	rgba(0,0,0,0.2);
 	-webkit-transition:	all 0.4s ease;
 	transition:		all 0.4s ease;
 }
