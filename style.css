@@ -11,7 +11,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
+  background-image: url("https://yshun0302.github.io/s_yassan/code.jpg");
   z-index: -10;
 }
 img {
@@ -93,7 +93,7 @@ a , a:hover {
   transition: 1s;
 }
 .fv {
-  background: url(https://yshun0302.github.io/s_yassan/color1.jpg);
+  background: url("https://yshun0302.github.io/s_yassan/color1.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
