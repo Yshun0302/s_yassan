@@ -5,6 +5,7 @@ body {
   font-size: 1.6rem;
   color: #FFF;
   font-family: 'Vollkorn', sans-serif;
+  overflow-x: hidden;
 }
 .main {
   min-height: 100vh;
