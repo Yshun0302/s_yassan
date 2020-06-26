@@ -309,14 +309,14 @@ a , a:hover {
   color: #FFF;
   font-weight: bold;
   font-size: 2rem;
-  margin-bottom: 5px;
+  margin-bottom: 50px;
   opacity: 0;
 }
 .products-img-text {
   color: #FFF;
   font-size: 1.3rem;
   opacity: 0;
-  margin-bottom: 5px;
+  margin-bottom: 50px;
 }
 .products-img-title , .products-img-text {
   opacity: 1;
