@@ -13,8 +13,7 @@ body {
   z-index: -10;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;     
+  background-position: center;   
   background-image: url(https://yshun0302.github.io/s_yassan//code.jpg);
 }
 img {
@@ -479,9 +478,6 @@ a , a:hover {
   color: #518bb5;
 }
 @media screen and (max-width: 768px) {
-body {
-  background-size: 100%;
-}
 .header {
   padding: 0;
   background-color: #fff;
