@@ -14,7 +14,6 @@ body {
   background-size: cover;
   background-position: center;
   background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
-  background-repeat: no-repeat;
   z-index: -10;
 }
 img {
