@@ -7,17 +7,15 @@ body {
   font-size: 1.6rem;
   color: #FFF;
   font-family: 'Vollkorn', sans-serif;
+  overflow-x: hidden;
   box-sizing: border-box;
-  z-index: -10;
-　min-height: 100vh;
-}
-.main {
   min-height: 100vh;
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
+  background-repeat: no-repeat;
+  background-image: url(../img/code.jpg);
+  z-index: -10;
 }
 img {
   max-width: 100%;
