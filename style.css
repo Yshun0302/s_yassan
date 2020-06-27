@@ -12,7 +12,7 @@ body {
   min-height: 100vh;
   background-attachment: fixed;
   background-size: contain;
-  background-repeat: no-repeat;
+/*   background-repeat: no-repeat; */
   background-position: center;
   background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
   z-index: -10;
