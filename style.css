@@ -480,7 +480,7 @@ a , a:hover {
 }
 @media screen and (max-width: 768px) {
 .body {
-  background-size: 200px 200px;
+  background-size: 500px 500px;
   background-position: center;
   background-repeat: no-repeat;
 }
