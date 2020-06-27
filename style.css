@@ -3,19 +3,11 @@ html {
   box-sizing: border-box;
   overflow-x: hidden;
 }
-* {
-  overflow-x: hidden;
-}
 body {
   font-size: 1.6rem;
   color: #FFF;
+  overflow-x: hidden;
   font-family: 'Vollkorn', sans-serif;
-  height: 100vh;
-  z-index: -10;
-  background-attachment: fixed;
-  background-size: auto 100%;
-  background-position: center;  
-  background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
 }
 img {
   max-width: 100%;
@@ -350,7 +342,11 @@ a , a:hover {
 }
 /*servicesセクションです*/
 .services {
-  background-color: rgb(0, 0, 0, 0.4);
+  height: 100vh;
+  background-attachment: fixed;
+  background-size: auto 100%;
+  background-position: center;  
+  background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
 }
 .services-title {
   margin-bottom: 15px;
