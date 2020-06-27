@@ -8,7 +8,6 @@ body {
   color: #FFF;
   font-family: 'Vollkorn', sans-serif;
   overflow-x: hidden;
-  min-height: 100vh;
   z-index: -10;
   background-attachment: fixed;
   background-size: cover;
