@@ -8,6 +8,10 @@ body {
   color: #FFF;
   overflow-x: hidden;
   font-family: 'Vollkorn', sans-serif;
+  background-attachment: fixed;
+  background-size: auto 100%;
+  background-position: center;  
+  background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
 }
 img {
   max-width: 100%;
@@ -341,12 +345,6 @@ a , a:hover {
 	bottom:			0;	/* 上にずらして表示する */
 }
 /*servicesセクションです*/
-.services {
-  background-attachment: fixed;
-  background-size: auto 100%;
-  background-position: center;  
-  background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
-}
 .services-title {
   margin-bottom: 15px;
   color: #fff;
@@ -596,9 +594,6 @@ button {
 }
 }
 @media screen and (max-width: 480px) {
-.services {
-background-color: #000;
-}
 .header {
   padding: 10px 4vw;
 }
