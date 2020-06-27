@@ -11,8 +11,6 @@ body {
   box-sizing: border-box;
   min-height: 100vh;
   z-index: -10;
-}
-.main::before {
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
