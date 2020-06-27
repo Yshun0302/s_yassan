@@ -14,7 +14,8 @@ body {
 }
 .main {
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
   background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
 }
