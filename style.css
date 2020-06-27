@@ -596,6 +596,9 @@ button {
 }
 }
 @media screen and (max-width: 480px) {
+.services {
+background-color: #000;
+}
 .header {
   padding: 10px 4vw;
 }
