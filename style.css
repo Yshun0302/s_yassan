@@ -601,9 +601,6 @@ button {
 }
 }
 @media screen and (max-width: 480px) {
-body {
-  background-size: ;
-}
 .header {
   padding: 10px 4vw;
 }
