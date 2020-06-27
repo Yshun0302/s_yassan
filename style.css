@@ -479,11 +479,6 @@ a , a:hover {
   color: #518bb5;
 }
 @media screen and (max-width: 768px) {
-.body {
-  background-size: 500px 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-}
 .header {
   padding: 0;
   background-color: #fff;
@@ -589,6 +584,13 @@ button {
 }
 .policy {
   margin-top: 30px;
+}
+.services {
+background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(https://yshun0302.github.io/s_yassan//code.jpg);
 }
 .services-list {
   display: block;
