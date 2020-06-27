@@ -10,11 +10,11 @@ body {
   overflow-x: hidden;
   box-sizing: border-box;
   min-height: 100vh;
-  background-attachment: fixed;
+/*   background-attachment: fixed;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
+  background-image: url(https://yshun0302.github.io/s_yassan/code.jpg); */
   z-index: -10;
 }
 img {
