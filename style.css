@@ -13,7 +13,7 @@ body {
   background-attachment: fixed;
 　-webkit-background-size: cover;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
   z-index: -10;
 }
