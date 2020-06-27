@@ -13,14 +13,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  background-image: url(../img/code.jpg);
-  z-index: -10;
-}
-.main {
-  min-height: 100vh;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
   background-image: url(https://yshun0302.github.io/s_yassan/code.jpg);
   z-index: -10;
 }
@@ -275,6 +267,7 @@ a , a:hover {
     display: flex;
     flex-wrap: wrap;
     align-content: space-between;
+    justify-content: center;
 }
 .skill-box-contents {
     width: calc((100% / 4) - (20px * 2 / 4));
@@ -535,7 +528,7 @@ a , a:hover {
   margin-bottom: 8px;
 }
 .burger-btn.cross .bar-top {
-  transform: rotate(45deg) translate(8px,8px);
+  transform: rotate(45deg) translate(6px,8px);
   transition: .3s;
 }
 .burger-btn.cross .bar-mid {
@@ -543,7 +536,7 @@ a , a:hover {
   transition: .3s;
 }
 .burger-btn.cross .bar-bottom {
-  transform: rotate(-45deg) translate(8px,-8px);
+  transform: rotate(-45deg) translate(6px,-8px);
   transition: .3s;
 }
 button {
@@ -667,3 +660,29 @@ button {
   font-size: 1.3rem;
 }
 }
+@media screen and (max-width: 380px) {
+.title {
+  font-size: 2.5rem;
+}
+.site-title {
+  font-size: 3.8rem;
+}
+.name-sup {
+  font-size: 1.3rem;
+  margin-left: 3px;
+}
+.name-text {
+  font-size: 2.5rem;
+}
+.img-text {
+  font-size: 2.5rem;
+}
+.contact-content {
+  font-size: 1.2rem;
+}
+}
+
+
+
+
+
