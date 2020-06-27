@@ -3,11 +3,13 @@ html {
   box-sizing: border-box;
   overflow-x: hidden;
 }
+* {
+  overflow-x: hidden;
+}
 body {
   font-size: 1.6rem;
   color: #FFF;
   font-family: 'Vollkorn', sans-serif;
-  overflow-x: hidden;
   height: 100vh;
   z-index: -10;
   background-attachment: fixed;
