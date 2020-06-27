@@ -601,7 +601,7 @@ button {
 }
 @media screen and (max-width: 480px) {
 .header {
-  padding: 5px 4vw;
+  padding: 10px 4vw;
 }
 .wrapper {
   padding: 50px 2vw;
@@ -609,7 +609,7 @@ button {
 .burger-btn {
   position: relative;
   right: 4vw;
-  top: 5px;
+  top: 4px;
 }
 .burger-btn .bar {
   width: 30px;
@@ -626,8 +626,8 @@ button {
   font-size: 4rem;
 }
 .site-subtitle {
-  font-size: 1.5rem;
-  width: 70%;
+  font-size: 1.6rem;
+  width: 75%;
   margin: 0 auto;
   line-height: 30px;
 }
