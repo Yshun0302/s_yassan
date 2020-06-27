@@ -342,7 +342,6 @@ a , a:hover {
 }
 /*servicesセクションです*/
 .services {
-  height: 100vh;
   background-attachment: fixed;
   background-size: auto 100%;
   background-position: center;  
