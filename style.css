@@ -8,9 +8,10 @@ body {
   color: #FFF;
   font-family: 'Vollkorn', sans-serif;
   overflow-x: hidden;
+  height: 100vh;
   z-index: -10;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: auto 100%;
   background-position: center;   
   background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
 }
