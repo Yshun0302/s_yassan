@@ -15,16 +15,8 @@ body {
   background-position: center;  
   background-repeat: no-repeat;
   background-image: url(https://yshun0302.github.io/s_yassan//code.jpg);
-}
-@media (-webkit-min-device-pixel-ratio: 2),
-       (min-resolution: 2dppx) {
-    body {
-        background-attachment: fixed;
-        background-size: cover;
-        background-position: center;  
-        background-repeat: no-repeat;
-        background-image: url(https://yshun0302.github.io/s_yassan//code.jpg);
-    }
+  height: 100vh;
+  width: 100%;
 }
 img {
   max-width: 100%;
