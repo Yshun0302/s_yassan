@@ -6,11 +6,14 @@ html {
 body {
   font-size: 1.6rem;
   color: #FFF;
+  box-sizing: border-box;
   overflow-x: hidden;
   font-family: 'Vollkorn', sans-serif;
+  z-index: -10;
   background-attachment: fixed;
-  background-size: auto 100%;
+  background-size: cover;
   background-position: center;  
+  background-repeat: no-repeat;
   background-image: url(https://yshun0302.github.io/s_yassan//code3.jpeg);
 }
 img {
@@ -345,6 +348,9 @@ a , a:hover {
 	bottom:			0;	/* 上にずらして表示する */
 }
 /*servicesセクションです*/
+.services {
+  background-color: rgba(0,0,0,0.4);
+}
 .services-title {
   margin-bottom: 15px;
   color: #fff;
