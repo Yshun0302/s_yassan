@@ -663,6 +663,11 @@ button {
   font-size: 1.3rem;
 }
 }
+@media screen and (min-width: 370px) {
+.site-subtitle {
+  font-size: 1.5rem;
+}
+}
 @media screen and (max-width: 380px) {
 .title {
   font-size: 2.5rem;
