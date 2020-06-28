@@ -644,8 +644,11 @@ button {
   box-shadow: 10px 10px 15px 3px #333;
 }
 .profile-text {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: 900;
+}
+.skill-box-contents {
+  font-size: 1.5rem;
 }
 .policy {
   font-size: 1.5rem;
@@ -668,7 +671,14 @@ button {
   font-size: 3.8rem;
 }
 .site-subtitle {
-width: 70%;
+  width: 70%;
+}
+.policy {
+  font-size: 1.3rem;
+}
+.services-item {
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .name-sup {
   font-size: 1.3rem;
@@ -678,13 +688,15 @@ width: 70%;
   font-size: 2.5rem;
 }
 .img-text {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
 }
-.contact-content {
+.service-detail-price {
   font-size: 1.2rem;
 }
+.contact-content {
+  font-size: 1.1rem;
 }
-
+}
 
 
 
