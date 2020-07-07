@@ -124,7 +124,7 @@ a , a:hover {
 .title {
   font-size: 3.7rem;
   width: 450px;
-  margin: 0 auto;
+  margin: 0 auto 15px;
   text-align: center;
 }
 .site-title {
