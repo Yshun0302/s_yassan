@@ -665,10 +665,10 @@ button {
 }
 @media screen and (max-width: 380px) {
 .title {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 .site-title {
-  font-size: 3.8rem;
+  font-size: 3rem;
 }
 .site-subtitle {
   width: 70%;
